@@ -20,6 +20,15 @@ Hermes Quill 是专为自部署 **Hermes Agent** 打造的安卓客户端，运�
 
 ---
 
+https://github.com/user-attachments/assets/823c8415-2d0d-41f2-ba7b-4e84a5c15aa2
+
+https://github.com/user-attachments/assets/f57e3cb1-b64e-4601-b528-991698d93883
+
+https://github.com/user-attachments/assets/e4db3751-6acf-4641-b744-50644e570f08
+
+---
+
+
 ## 核心原则
 
 - 无广告、无埋点统计 SDK、不需要注册账号

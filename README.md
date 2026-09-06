@@ -121,15 +121,6 @@ API_SERVER_KEY=<自定义你的密钥>
 
 ---
 
-## 下载
-
-📥 **APK 下载地址**：
-https://ug.link/4800p-hz/filemgr/share-download/?id=ea230389c6784b309cc2137d8e231529
-
-当前版本：v1.9.56
-
----
-
 ## 反馈
 
 提交 Bug 或者功能建议，可以在 App 内 `配置 → 关于 → 意见反馈` 导出诊断日志，提交 Issue 时附上日志。

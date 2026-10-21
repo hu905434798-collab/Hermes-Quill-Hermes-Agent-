@@ -22,7 +22,7 @@ Hermes Quill 是专为自部署 **Hermes Agent** 打造的安卓客户端，运�
 
 **全功能演示（v2.1.39，5 分 37 秒）**
 
-[Hermes-Quill-Demo-v2.1.39.mp4](https://github.com/hu905434798-collab/Hermes-Quill-Hermes-Agent-/releases/download/V2.1.39/Hermes-Quill-Demo-v2.1.39.mp4)
+https://github.com/hu905434798-collab/Hermes-Quill-Hermes-Agent-/releases/download/V2.1.39/Hermes-Quill-Demo-v2.1.39.mp4
 
 - 00:00 聊天与消息流：Markdown 完整渲染，表格、代码块、引用、待办列表都是原生显示
 - 01:00 文档预览：AI 生成的验收报告直接在 App 内预览，带表格和引用，无需跳转其他应用
@@ -30,12 +30,6 @@ Hermes Quill 是专为自部署 **Hermes Agent** 打造的安卓客户端，运�
 - 04:10 模型配置与诊断工具：按服务商分类查看模型、余额、优先级，一键生成诊断报告
 
 视频中的地址均已做脱敏处理。
-
-https://github.com/user-attachments/assets/823c8415-2d0d-41f2-ba7b-4e84a5c15aa2
-
-https://github.com/user-attachments/assets/f57e3cb1-b64e-4601-b528-991698d93883
-
-https://github.com/user-attachments/assets/e4db3751-6acf-4641-b744-50644e570f08
 
 ---
 
